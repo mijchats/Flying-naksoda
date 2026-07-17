@@ -1,16 +1,12 @@
-[app]
-
 title = Flying Naksoda
 
 package.name = flyingnaksoda
 
-package.domain = org.game
-
-version = 1.0
+package.domain = org.mij
 
 source.dir = .
 
-source.include_exts = py,png,jpg,wav
+source.include_exts = py,png,wav,txt
 
 requirements = python3,pygame
 
